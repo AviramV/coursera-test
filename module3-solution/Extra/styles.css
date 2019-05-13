@@ -1,0 +1,13 @@
+header, .navbar, .navbar-expand-lg, .navbar-expand-md{
+	background-color: grey;
+}
+
+h1 {
+	margin-bottom: 25px;
+}
+
+#color {
+
+	background-color: pink;
+}
+
